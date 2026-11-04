@@ -1,0 +1,401 @@
+merchant_id,merchant_name,dominant_category,merchant_city,merchant_state,merchant_lat,merchant_long,merchant_since,is_active
+10000,fraud_Cole and Sons,shopping_pos,Houston,TX,29.685124,-95.099371,2013-02-17,1
+10001,fraud_Douglas Inc,grocery_pos,New York,NY,40.851996,-73.946805,2012-02-07,1
+10002,fraud_Rutherford,home,New York,NY,40.506411,-74.212403,2014-06-17,0
+10003,fraud_Reilly PLC,personal_care,Phoenix,AZ,33.18325,-111.854294,2010-02-23,1
+10004,fraud_Reilly LLC,personal_care,Houston,TX,29.821069,-95.244956,2017-07-20,1
+10005,fraud_Bailey and Sons,entertainment,Seattle,WA,47.318551,-122.050154,2023-07-17,1
+10006,fraud_Schmidt,grocery_net,Dallas,TX,32.976166,-96.969597,2018-06-28,1
+10007,fraud_Douglas Ltd,travel,Austin,TX,30.076295,-97.933057,2018-02-10,0
+10008,fraud_Cormier,misc_pos,New York,NY,40.595345,-73.991146,2015-02-10,1
+10009,fraud_Bailey,grocery_net,Seattle,WA,47.565367,-122.457363,2018-07-11,1
+10010,fraud_Pfeffer,gas_transport,Philadelphia,PA,40.019712,-75.381504,2018-04-21,1
+10011,fraud_Cormier,misc_pos,Charlotte,NC,35.102387,-80.923283,2011-08-08,0
+10012,fraud_Marks,gas_transport,Houston,TX,29.734042,-95.198694,2020-05-14,1
+10013,fraud_Stroman,misc_net,Columbus,OH,39.781004,-82.990259,2022-06-29,1
+10014,fraud_Halvorson,grocery_pos,Denver,CO,39.794649,-105.26243,2015-02-20,1
+10015,fraud_Halvorson,shopping_pos,Los Angeles,CA,34.116727,-118.441386,2022-09-21,1
+10016,fraud_Cormier,misc_pos,San Antonio,TX,29.163131,-98.224269,2020-04-16,1
+10017,fraud_Stroman Ltd,home,Dallas,TX,33.056079,-96.611962,2015-11-23,0
+10018,fraud_Reilly,entertainment,San Antonio,TX,29.306868,-98.734997,2014-12-02,1
+10019,fraud_Emmerich,grocery_pos,Denver,CO,39.84974,-105.026209,2012-06-17,1
+10020,fraud_Marks,kids_pets,San Antonio,TX,29.197323,-98.496494,2011-06-05,1
+10021,fraud_Waters,home,,CA,32.436333,-116.915508,2015-08-22,0
+10022,fraud_Kunze,misc_pos,Los Angeles,CA,33.907468,-118.146187,2022-01-16,1
+10023,fraud_Halvorson Inc,health_fitness,Chicago,IL,41.765127,-87.617759,2010-01-27,1
+10024,fraud_Emmerich,grocery_net,Dallas,TX,32.804726,-96.986087,2016-09-10,0
+10025,fraud_Boyle and Sons,gas_transport,Denver,CO,40.020951,-104.82522,2022-02-05,0
+10026,fraud_Kunze,grocery_pos,San Diego,CA,32.979399,-116.924204,2012-07-05,1
+10027,fraud_Bogan LLC,kids_pets,Boston,MA,42.41884,-70.805775,2011-10-08,1
+10028,fraud_Yost,home,Denver,CO,39.492296,-105.17271,2012-10-27,1
+10029,fraud_Yost,shopping_net,Chicago,IL,41.605236,-87.734602,2021-11-01,0
+10030,fraud_Reilly,home,Boston,MA,42.293306,-71.196091,2014-07-06,1
+10031,fraud_Waters,entertainment,Columbus,OH,40.158443,-83.084748,2019-10-29,0
+10032,fraud_Pfeffer LLC,entertainment,Los Angeles,CA,33.920761,-118.218082,2010-06-22,0
+10033,fraud_Douglas LLC,grocery_net,New York,NY,40.497355,-73.824682,2011-04-28,1
+10034,fraud_Bailey,entertainment,Seattle,WA,47.35093,-122.039968,2011-08-04,0
+10035,fraud_Rutherford Inc,home,Houston,TX,29.923747,-95.550571,2012-12-19,0
+10036,fraud_Homenick,health_fitness,Denver,CO,39.442513,-104.801023,2019-02-17,1
+10037,fraud_Cole Inc,food_dining,Philadelphia,PA,40.076714,-75.027796,2019-03-22,1
+10038,fraud_Schmidt,grocery_net,Columbus,OH,40.123962,-83.254373,2011-05-12,1
+10039,fraud_Halvorson,shopping_pos,Los Angeles,CA,33.967279,-118.474179,2014-04-19,1
+10040,fraud_Douglas,gas_transport,,TX,29.641962,-98.419621,2016-03-31,1
+10041,fraud_Rutherford,health_fitness,Los Angeles,CA,33.950739,-118.505565,2022-05-06,1
+10042,fraud_Schmidt,travel,Dallas,TX,32.663289,-96.90189,2010-05-01,1
+10043,fraud_Rutherford Inc,shopping_pos,San Diego,CA,32.853464,-117.078566,2018-12-30,1
+10044,fraud_Marks Inc,personal_care,Phoenix,AZ,33.680728,-112.090671,2020-03-16,1
+10045,fraud_Reilly,personal_care,Charlotte,NC,34.998857,-80.715153,2022-06-19,1
+10046,fraud_Hart LLC,kids_pets,New York,NY,40.869271,-73.969234,2022-02-28,1
+10047,fraud_Halvorson PLC,home,San Diego,CA,32.87828,-117.164823,2021-11-29,1
+10048,fraud_Schmidt,travel,Los Angeles,CA,34.06584,-118.287175,2014-03-03,1
+10049,fraud_Boyle LLC,grocery_net,San Antonio,TX,29.139351,-98.728865,2022-10-11,1
+10050,fraud_Homenick,grocery_net,Austin,TX,29.986058,-97.661254,2019-05-28,0
+10051,fraud_Homenick,shopping_net,Boston,MA,42.248714,-71.053758,2014-08-01,1
+10052,fraud_Rutherford LLC,misc_pos,Columbus,OH,40.20574,-83.149225,2016-09-23,1
+10053,fraud_Halvorson,grocery_net,Boston,MA,42.30633,-70.905569,2010-03-18,1
+10054,fraud_Boyle,grocery_net,Los Angeles,CA,33.889479,-118.497512,2022-01-22,1
+10055,fraud_Emmerich and Sons,grocery_net,Boston,MA,42.233951,-71.262167,2015-06-25,1
+10056,fraud_Bogan PLC,shopping_net,Charlotte,NC,35.484919,-80.658228,2021-11-12,1
+10057,fraud_Douglas Ltd,gas_transport,Los Angeles,CA,34.132242,-118.020824,2015-12-07,1
+10058,fraud_Cole,shopping_net,Chicago,IL,42.060303,-87.817858,2016-04-27,0
+10059,fraud_Cormier,misc_pos,Houston,TX,29.995935,-95.346195,2015-12-03,0
+10060,fraud_Yost Group,misc_pos,Los Angeles,CA,34.236664,-118.006045,2019-07-02,1
+10061,fraud_Schmidt LLC,shopping_net,Columbus,OH,39.852002,-83.232769,2013-08-16,1
+10062,fraud_Douglas,grocery_pos,Dallas,TX,32.613461,-96.840735,2012-07-05,1
+10063,fraud_Hart,entertainment,Seattle,WA,47.797009,-122.115662,2023-01-24,0
+10064,fraud_Hart,shopping_net,New York,NY,40.416971,-73.999552,2018-03-07,1
+10065,fraud_Kutch LLC,grocery_net,Columbus,OH,39.911647,-83.165535,2017-12-07,0
+10066,fraud_Reilly,gas_transport,Charlotte,NC,34.999019,-80.940531,2015-04-24,1
+10067,fraud_Marks,gas_transport,New York,NY,40.978546,-74.112078,2017-06-14,1
+10068,fraud_Rutherford Ltd,food_dining,Los Angeles,CA,34.063474,-118.121889,2010-11-14,1
+10069,fraud_Rutherford Inc,shopping_net,Philadelphia,PA,39.870778,-74.882131,2015-02-08,1
+10070,fraud_Kunze,entertainment,San Antonio,TX,29.701568,-98.642531,2016-04-01,1
+10071,fraud_Stroman PLC,misc_pos,San Antonio,TX,29.422449,-98.613073,2022-01-10,1
+10072,fraud_Kunze and Sons,kids_pets,Chicago,IL,41.749004,-87.907668,2015-12-15,1
+10073,fraud_Cole,misc_net,Philadelphia,PA,40.018339,-75.163593,2017-01-13,1
+10074,fraud_Boyle,food_dining,Los Angeles,CA,33.783087,-118.376512,2022-12-07,1
+10075,fraud_Stroman Inc,home,New York,NY,40.95776,-74.162263,2022-01-28,1
+10076,fraud_Kutch,entertainment,Columbus,OH,39.748137,-83.005128,2017-01-15,1
+10077,fraud_Bogan,food_dining,Columbus,OH,40.25259,-83.153567,2017-04-26,1
+10078,fraud_Bogan,food_dining,Houston,TX,29.863681,-95.212828,2018-07-03,1
+10079,fraud_Boyle,home,San Antonio,TX,29.266683,-98.35667,2010-01-04,1
+10080,fraud_Bogan PLC,misc_pos,Austin,TX,30.18787,-97.663717,2017-03-24,1
+10081,fraud_Pfeffer,home,Houston,TX,29.840518,-95.348335,2020-08-12,1
+10082,fraud_Bailey Ltd,kids_pets,,OH,39.715374,-82.797619,2017-07-08,1
+10083,fraud_Rutherford,personal_care,Houston,TX,29.652868,-95.557889,2014-06-20,1
+10084,fraud_Kunze Inc,travel,Austin,TX,29.991665,-97.688564,2011-08-20,1
+10085,fraud_Reilly,shopping_pos,Austin,TX,30.373739,-98.033147,2018-08-12,1
+10086,fraud_Waters Ltd,grocery_pos,Charlotte,NC,35.234356,-81.007203,2012-05-23,1
+10087,fraud_Rutherford Ltd,health_fitness,Dallas,TX,32.863804,-96.99238,2011-02-16,0
+10088,fraud_Rutherford,health_fitness,Los Angeles,CA,34.166763,-118.311659,2012-12-28,1
+10089,fraud_Emmerich,entertainment,Austin,TX,30.529238,-97.960587,2019-12-05,0
+10090,fraud_Emmerich,home,Boston,MA,42.26474,-71.290816,2020-01-01,1
+10091,fraud_Yost,shopping_pos,Denver,CO,39.994016,-104.763896,2016-03-21,0
+10092,fraud_Yost,health_fitness,Phoenix,AZ,33.303165,-111.97801,2011-09-27,1
+10093,fraud_Rutherford and Sons,home,Boston,MA,42.550433,-71.02578,2011-10-23,1
+10094,fraud_Hart Ltd,misc_net,Chicago,IL,41.89589,-87.784689,2014-10-19,1
+10095,fraud_Reilly,health_fitness,Dallas,TX,32.532562,-96.558671,2019-04-30,1
+10096,fraud_Cormier,personal_care,San Antonio,TX,29.664351,-98.413739,2023-02-06,1
+10097,fraud_Homenick Group,shopping_net,Philadelphia,PA,39.856018,-75.255674,2018-09-30,1
+10098,fraud_Douglas,personal_care,,TX,32.912273,-96.558734,2023-07-13,1
+10099,fraud_Yost Inc,grocery_pos,San Diego,CA,32.947952,-116.993175,2018-09-21,1
+10100,fraud_Waters,health_fitness,Seattle,WA,47.691419,-122.581616,2012-11-11,0
+10101,fraud_Douglas Inc,kids_pets,Austin,TX,30.064177,-97.503967,2010-08-11,1
+10102,fraud_Reilly Inc,grocery_pos,Chicago,IL,41.941957,-87.924282,2015-11-02,1
+10103,fraud_Halvorson and Sons,personal_care,Philadelphia,PA,39.713483,-75.067099,2018-07-03,1
+10104,fraud_Reilly Group,grocery_pos,San Diego,CA,32.418737,-117.364615,2022-02-05,1
+10105,fraud_Kutch Group,misc_pos,Denver,CO,39.76844,-104.875163,2010-11-26,1
+10106,fraud_Rutherford Group,gas_transport,Austin,TX,30.358377,-97.908538,2015-05-09,1
+10107,fraud_Yost,shopping_pos,Austin,TX,30.394508,-97.900751,2020-06-06,1
+10108,fraud_Kutch PLC,misc_net,Charlotte,NC,35.12234,-80.695205,2012-07-27,1
+10109,fraud_Bogan Group,shopping_net,Boston,MA,42.44988,-70.849366,2022-11-30,1
+10110,fraud_Waters,grocery_net,Houston,TX,29.854968,-95.328815,2023-04-13,1
+10111,fraud_Cole,travel,Phoenix,AZ,33.204605,-112.153371,2023-06-20,1
+10112,fraud_Homenick,home,Philadelphia,PA,39.811721,-75.318806,2019-08-11,1
+10113,fraud_Bailey,grocery_pos,Philadelphia,PA,40.236406,-75.229341,2019-06-04,1
+10114,fraud_Cole,misc_pos,Philadelphia,PA,40.187828,-75.086517,2020-04-24,1
+10115,fraud_Reilly PLC,shopping_net,Columbus,OH,40.138087,-82.997218,2022-01-26,1
+10116,fraud_Pfeffer,kids_pets,Charlotte,NC,35.273242,-80.847589,2016-01-08,1
+10117,fraud_Rutherford,shopping_net,Los Angeles,CA,33.869346,-118.110229,2020-02-10,1
+10118,fraud_Pfeffer,food_dining,Columbus,OH,39.829663,-83.28421,2017-07-18,1
+10119,fraud_Yost,health_fitness,Chicago,IL,41.965383,-87.823534,2014-10-04,1
+10120,fraud_Stroman PLC,shopping_net,Charlotte,NC,35.491375,-80.570743,2022-06-20,1
+10121,fraud_Emmerich,shopping_pos,Los Angeles,CA,34.301119,-118.321605,2019-02-12,1
+10122,fraud_Douglas,health_fitness,Charlotte,NC,34.936374,-80.586109,2021-01-03,1
+10123,fraud_Kunze LLC,misc_net,San Antonio,TX,29.38101,-98.213607,2015-06-17,1
+10124,fraud_Homenick PLC,entertainment,Dallas,TX,33.054872,-96.585194,2019-07-18,0
+10125,fraud_Halvorson Inc,shopping_net,Phoenix,AZ,33.325069,-112.142941,2015-08-22,1
+10126,fraud_Cole,grocery_net,Philadelphia,PA,40.163282,-75.275047,2022-01-07,1
+10127,fraud_Cormier Inc,misc_net,Phoenix,AZ,33.250096,-112.039919,2023-03-23,0
+10128,fraud_Boyle Group,shopping_pos,Seattle,WA,47.867893,-122.214482,2016-08-23,1
+10129,fraud_Kutch Group,home,Charlotte,NC,35.269137,-81.084794,2012-11-02,1
+10130,fraud_Schmidt,shopping_net,Dallas,TX,32.845704,-96.502968,2012-10-31,1
+10131,fraud_Cole,shopping_net,Austin,TX,30.05125,-97.732102,2020-07-12,1
+10132,fraud_Pfeffer Group,travel,Phoenix,AZ,33.674824,-111.929539,2020-09-18,1
+10133,fraud_Bailey,kids_pets,Los Angeles,CA,34.170409,-118.12221,2011-03-16,1
+10134,fraud_Hart,grocery_net,Phoenix,AZ,33.364095,-112.197845,2015-07-27,1
+10135,fraud_Douglas,kids_pets,Austin,TX,30.452817,-97.557032,2015-01-23,0
+10136,fraud_Waters,shopping_net,,CA,32.935943,-116.913156,2023-03-15,1
+10137,fraud_Bogan,kids_pets,New York,NY,40.719605,-74.00509,2012-03-23,1
+10138,fraud_Cormier Group,shopping_pos,Chicago,IL,42.057077,-87.539822,2013-11-24,0
+10139,fraud_Bailey Inc,misc_net,San Diego,CA,32.83688,-116.983624,2023-04-27,1
+10140,fraud_Bogan and Sons,shopping_net,Charlotte,NC,35.461103,-80.940303,2020-03-08,1
+10141,fraud_Rutherford,personal_care,Denver,CO,39.66455,-105.233911,2023-03-25,1
+10142,fraud_Reilly LLC,gas_transport,Columbus,OH,40.008168,-83.277235,2015-12-17,1
+10143,fraud_Bailey and Sons,misc_net,Austin,TX,30.246559,-97.717513,2022-10-07,1
+10144,fraud_Pfeffer Ltd,misc_net,Phoenix,AZ,33.320325,-112.0195,2019-01-11,1
+10145,fraud_Emmerich,grocery_net,,CA,32.434,-117.438691,2023-06-01,1
+10146,fraud_Reilly,shopping_net,Austin,TX,30.46076,-97.826986,2010-07-31,1
+10147,fraud_Rutherford,travel,Seattle,WA,47.382436,-122.318754,2022-11-26,0
+10148,fraud_Kunze,travel,Columbus,OH,40.123196,-83.169307,2016-01-17,0
+10149,fraud_Schmidt,health_fitness,Chicago,IL,41.951834,-87.878592,2021-08-22,1
+10150,fraud_Stroman PLC,misc_pos,San Antonio,TX,29.155109,-98.474787,2021-01-11,1
+10151,fraud_Yost and Sons,misc_pos,Philadelphia,PA,39.976981,-75.082742,2012-05-06,1
+10152,fraud_Halvorson,shopping_net,San Diego,CA,32.851355,-116.875589,2018-12-25,0
+10153,fraud_Schmidt,shopping_net,Philadelphia,PA,39.96238,-75.271426,2017-04-02,1
+10154,fraud_Waters,grocery_pos,Seattle,WA,47.783312,-122.469601,2022-03-03,1
+10155,fraud_Reilly PLC,kids_pets,Philadelphia,PA,39.915983,-75.418126,2021-03-07,1
+10156,fraud_Schmidt PLC,shopping_net,Chicago,IL,41.59331,-87.352211,2019-10-30,1
+10157,fraud_Cole Ltd,personal_care,Austin,TX,30.468788,-97.625515,2015-05-15,1
+10158,fraud_Bogan,food_dining,Dallas,TX,32.722072,-96.993023,2012-02-03,1
+10159,fraud_Cole,misc_pos,Los Angeles,CA,33.846062,-118.393554,2013-06-15,1
+10160,fraud_Bogan,food_dining,Phoenix,AZ,33.477936,-111.945242,2020-10-27,1
+10161,fraud_Rutherford,food_dining,Chicago,IL,41.974218,-87.76184,2014-04-11,0
+10162,fraud_Emmerich,travel,Chicago,IL,42.151019,-87.487062,2011-07-26,1
+10163,fraud_Reilly PLC,travel,Phoenix,AZ,33.481012,-112.006968,2010-01-22,1
+10164,fraud_Bogan,misc_pos,Austin,TX,30.21896,-97.894461,2020-12-25,1
+10165,fraud_Pfeffer,entertainment,Philadelphia,PA,39.866184,-75.010492,2022-05-19,0
+10166,fraud_Waters,travel,Philadelphia,PA,39.661236,-75.395556,2014-03-26,1
+10167,fraud_Homenick Inc,entertainment,New York,NY,40.440402,-74.281563,2020-08-10,1
+10168,fraud_Waters,travel,Denver,CO,39.952476,-104.868105,2013-05-31,1
+10169,fraud_Schmidt PLC,travel,Philadelphia,PA,39.937104,-75.4065,2012-04-02,1
+10170,fraud_Cole,grocery_pos,San Diego,CA,32.71067,-117.177017,2013-03-26,1
+10171,fraud_Hart and Sons,kids_pets,Philadelphia,PA,39.756521,-75.204889,2018-12-01,1
+10172,fraud_Halvorson,home,Seattle,WA,47.545303,-122.26259,2018-07-11,1
+10173,fraud_Yost,kids_pets,New York,NY,40.793856,-74.278818,2011-07-15,1
+10174,fraud_Bogan,grocery_net,Charlotte,NC,35.151868,-80.767584,2019-09-26,1
+10175,fraud_Cole,shopping_net,Charlotte,NC,35.228982,-80.629206,2010-08-26,1
+10176,fraud_Halvorson,entertainment,Phoenix,AZ,33.543616,-112.276239,2018-05-29,1
+10177,fraud_Hart Inc,misc_pos,Austin,TX,30.009541,-97.657648,2014-01-15,1
+10178,fraud_Marks Inc,misc_pos,Austin,TX,29.983107,-97.691635,2015-05-27,1
+10179,fraud_Homenick Inc,shopping_net,Columbus,OH,40.225338,-82.953515,2020-04-22,1
+10180,fraud_Kunze,shopping_net,San Diego,CA,32.648602,-117.075127,2022-04-05,1
+10181,fraud_Bailey,kids_pets,Philadelphia,PA,39.927552,-75.13783,2016-09-16,1
+10182,fraud_Stroman,shopping_pos,Phoenix,AZ,33.713279,-112.142338,2018-08-18,1
+10183,fraud_Cole PLC,kids_pets,Philadelphia,PA,40.229314,-74.92199,2016-08-20,1
+10184,fraud_Kunze,food_dining,Columbus,OH,39.778675,-83.257183,2016-02-27,1
+10185,fraud_Homenick,misc_net,Denver,CO,39.499667,-105.279367,2011-02-06,0
+10186,fraud_Yost,shopping_net,Boston,MA,42.116766,-70.949096,2015-03-01,0
+10187,fraud_Kutch LLC,shopping_net,Austin,TX,30.009913,-97.851715,2013-01-25,1
+10188,fraud_Schmidt Inc,kids_pets,New York,NY,40.919725,-74.292037,2018-03-08,1
+10189,fraud_Bailey,misc_net,Philadelphia,PA,40.141281,-75.296087,2019-04-27,1
+10190,fraud_Cormier PLC,entertainment,Boston,MA,42.130999,-70.940858,2021-11-27,0
+10191,fraud_Stroman,travel,Phoenix,AZ,33.525766,-111.847517,2020-10-22,1
+10192,fraud_Halvorson,grocery_net,San Diego,CA,32.856743,-116.979011,2013-02-27,1
+10193,fraud_Waters,home,Denver,CO,39.608421,-105.183836,2018-03-16,1
+10194,fraud_Waters PLC,health_fitness,Los Angeles,CA,34.202569,-118.059599,2018-04-08,1
+10195,fraud_Homenick Ltd,grocery_net,Philadelphia,PA,40.246903,-75.217629,2015-03-31,1
+10196,fraud_Kunze,entertainment,Dallas,TX,32.699911,-96.631152,2023-09-07,1
+10197,fraud_Bailey,misc_net,San Diego,CA,32.620182,-116.902646,2016-10-11,1
+10198,fraud_Cole Group,health_fitness,Phoenix,AZ,33.663448,-112.116604,2012-08-09,1
+10199,fraud_Rutherford,food_dining,Chicago,IL,42.028623,-87.477074,2020-03-05,1
+10200,fraud_Douglas,misc_net,Charlotte,NC,34.988974,-80.601568,2013-06-19,1
+10201,fraud_Cole,food_dining,Austin,TX,30.270351,-97.547226,2016-04-10,1
+10202,fraud_Kutch Inc,travel,Houston,TX,29.65243,-95.132486,2018-02-19,1
+10203,fraud_Kutch,entertainment,Columbus,OH,39.894721,-83.292297,2011-05-12,1
+10204,fraud_Stroman Group,travel,Seattle,WA,47.849429,-122.577328,2020-03-14,1
+10205,fraud_Cormier,grocery_pos,Austin,TX,30.158788,-97.473063,2011-02-19,1
+10206,fraud_Rutherford,kids_pets,Denver,CO,40.009564,-104.946237,2014-08-09,1
+10207,fraud_Douglas LLC,travel,Seattle,WA,47.685302,-122.363033,2015-03-24,1
+10208,fraud_Hart,grocery_pos,Austin,TX,30.143126,-97.845901,2016-03-21,1
+10209,fraud_Hart,gas_transport,Denver,CO,39.842711,-104.838875,2012-06-19,1
+10210,fraud_Hart LLC,entertainment,Austin,TX,30.442147,-97.569329,2010-05-10,1
+10211,fraud_Stroman Ltd,home,San Antonio,TX,29.178824,-98.496948,2012-07-20,1
+10212,fraud_Yost,home,Philadelphia,PA,39.687135,-75.135483,2023-04-26,1
+10213,fraud_Pfeffer,grocery_pos,Austin,TX,30.232118,-97.510477,2021-09-11,1
+10214,fraud_Pfeffer,grocery_pos,New York,NY,40.623349,-74.23576,2020-09-28,1
+10215,fraud_Reilly,misc_net,San Diego,CA,32.501495,-117.004194,2019-12-13,1
+10216,fraud_Bailey LLC,gas_transport,Los Angeles,CA,34.123131,-118.483026,2016-03-02,0
+10217,fraud_Homenick,food_dining,Philadelphia,PA,39.703064,-75.044619,2023-05-26,0
+10218,fraud_Bogan,food_dining,Austin,TX,30.010858,-97.549984,2012-03-23,1
+10219,fraud_Douglas,food_dining,Houston,TX,29.884145,-95.620991,2020-02-17,1
+10220,fraud_Reilly Inc,food_dining,San Antonio,TX,29.175003,-98.201616,2012-02-18,1
+10221,fraud_Reilly and Sons,gas_transport,Philadelphia,PA,39.877162,-75.242815,2020-08-21,1
+10222,fraud_Bailey,food_dining,Los Angeles,CA,34.23988,-117.975351,2012-03-02,1
+10223,fraud_Hart,home,Austin,TX,30.558801,-97.591073,2022-08-07,1
+10224,fraud_Cole,misc_pos,Seattle,WA,47.531956,-122.582,2019-06-27,1
+10225,fraud_Bogan,grocery_net,Philadelphia,PA,40.118888,-75.130157,2022-12-18,0
+10226,fraud_Cormier Inc,travel,Houston,TX,29.714933,-95.125987,2012-06-05,1
+10227,fraud_Douglas and Sons,shopping_pos,Austin,TX,30.033918,-97.747525,2019-08-17,0
+10228,fraud_Boyle,home,Columbus,OH,39.668012,-83.017604,2010-08-04,0
+10229,fraud_Stroman and Sons,personal_care,Charlotte,NC,34.960882,-81.071809,2016-12-06,1
+10230,fraud_Kutch LLC,misc_pos,Austin,TX,30.037716,-97.653574,2018-12-28,1
+10231,fraud_Hart,grocery_net,New York,NY,40.860427,-73.955979,2021-11-24,1
+10232,fraud_Waters,gas_transport,Philadelphia,PA,40.229904,-75.240278,2018-04-20,1
+10233,fraud_Halvorson,kids_pets,Austin,TX,30.138627,-97.521941,2011-11-27,1
+10234,fraud_Hart PLC,misc_pos,New York,NY,40.546958,-73.728066,2011-10-31,1
+10235,fraud_Pfeffer,kids_pets,San Diego,CA,32.422993,-116.879173,2019-12-01,1
+10236,fraud_Stroman PLC,entertainment,Los Angeles,CA,33.778096,-118.009014,2019-08-23,1
+10237,fraud_Bogan,health_fitness,Austin,TX,30.283821,-97.447321,2021-10-26,1
+10238,fraud_Schmidt PLC,grocery_pos,New York,NY,40.457078,-73.973687,2014-08-02,1
+10239,fraud_Cormier,shopping_net,Denver,CO,40.020782,-104.976441,2016-06-29,1
+10240,fraud_Cole Ltd,gas_transport,San Antonio,TX,29.501739,-98.376151,2012-11-24,1
+10241,fraud_Douglas,home,Dallas,TX,32.749425,-96.720465,2017-12-11,1
+10242,fraud_Waters,food_dining,New York,NY,40.763389,-73.765305,2010-06-03,1
+10243,fraud_Bailey,food_dining,Austin,TX,29.994468,-97.874522,2022-11-11,1
+10244,fraud_Reilly Inc,entertainment,New York,NY,40.983047,-73.771842,2013-11-08,0
+10245,fraud_Pfeffer,entertainment,Boston,MA,42.333494,-70.98682,2011-12-23,1
+10246,fraud_Cole PLC,home,San Antonio,TX,29.290529,-98.680727,2011-10-07,1
+10247,fraud_Bogan,entertainment,Houston,TX,29.738619,-95.457789,2013-10-09,1
+10248,fraud_Emmerich,home,Dallas,TX,32.826894,-97.050359,2014-05-08,1
+10249,fraud_Kutch,misc_pos,Seattle,WA,47.890837,-122.040374,2013-04-24,1
+10250,fraud_Cole LLC,kids_pets,Chicago,IL,41.996997,-87.608142,2013-06-06,1
+10251,fraud_Marks,health_fitness,Columbus,OH,39.846917,-82.810523,2020-05-28,0
+10252,fraud_Homenick,kids_pets,Boston,MA,42.470939,-71.26133,2017-04-01,1
+10253,fraud_Hart,health_fitness,San Diego,CA,32.962256,-116.967578,2016-10-16,1
+10254,fraud_Homenick PLC,shopping_net,Los Angeles,CA,34.32208,-118.108268,2020-05-10,1
+10255,fraud_Schmidt and Sons,misc_pos,Los Angeles,CA,34.120249,-118.292754,2012-01-10,0
+10256,fraud_Boyle,kids_pets,San Diego,CA,32.975337,-116.941462,2022-06-07,1
+10257,fraud_Pfeffer,misc_pos,Austin,TX,29.994331,-98.02728,2014-03-23,1
+10258,fraud_Boyle,grocery_pos,Chicago,IL,41.803978,-87.443468,2020-02-08,1
+10259,fraud_Halvorson,home,Los Angeles,CA,34.344566,-118.45345,2013-11-14,1
+10260,fraud_Rutherford,home,San Diego,CA,32.772178,-117.232565,2021-09-22,0
+10261,fraud_Marks and Sons,food_dining,San Antonio,TX,29.706049,-98.288329,2017-08-03,0
+10262,fraud_Schmidt,entertainment,Columbus,OH,40.164197,-83.017584,2011-06-24,1
+10263,fraud_Cole,shopping_net,San Antonio,TX,29.372992,-98.629556,2015-08-27,0
+10264,fraud_Hart PLC,gas_transport,Columbus,OH,39.695025,-82.779967,2017-11-05,1
+10265,fraud_Waters Ltd,shopping_net,Los Angeles,CA,34.239941,-117.943869,2022-07-15,1
+10266,fraud_Halvorson,misc_net,Columbus,OH,40.259182,-82.965541,2021-10-22,1
+10267,fraud_Reilly,entertainment,New York,NY,40.874192,-73.739141,2016-12-05,1
+10268,fraud_Cormier Inc,shopping_pos,Houston,TX,29.970188,-95.521391,2013-01-31,1
+10269,fraud_Bailey Group,personal_care,Dallas,TX,32.747026,-97.019504,2022-02-08,0
+10270,fraud_Schmidt,personal_care,Boston,MA,42.632531,-70.995195,2012-12-09,0
+10271,fraud_Waters LLC,misc_net,Seattle,WA,47.443386,-122.22908,2013-09-18,1
+10272,fraud_Schmidt,misc_net,Columbus,OH,40.032077,-83.083902,2015-04-30,1
+10273,fraud_Boyle Ltd,health_fitness,,CO,39.507335,-104.887356,2015-04-01,0
+10274,fraud_Rutherford Inc,travel,Boston,MA,42.372285,-70.895509,2014-05-09,1
+10275,fraud_Homenick,personal_care,San Diego,CA,32.727798,-116.949791,2016-04-27,1
+10276,fraud_Emmerich,travel,Chicago,IL,41.909244,-87.593237,2014-06-24,0
+10277,fraud_Hart,misc_pos,New York,NY,40.938792,-74.06391,2020-10-11,1
+10278,fraud_Douglas,travel,Charlotte,NC,35.007509,-81.12583,2021-07-28,1
+10279,fraud_Bogan LLC,health_fitness,Phoenix,AZ,33.601482,-112.001814,2021-07-07,1
+10280,fraud_Reilly LLC,health_fitness,Seattle,WA,47.728648,-122.504322,2017-11-03,1
+10281,fraud_Reilly PLC,shopping_pos,Philadelphia,PA,39.734423,-75.456473,2018-08-30,1
+10282,fraud_Kutch and Sons,grocery_net,Boston,MA,42.270453,-71.004949,2017-07-09,1
+10283,fraud_Hart Inc,travel,Charlotte,NC,35.162446,-80.880615,2013-02-10,1
+10284,fraud_Pfeffer,grocery_net,Boston,MA,42.602595,-71.149947,2010-06-05,1
+10285,fraud_Cormier,misc_net,Dallas,TX,32.785094,-96.626808,2023-08-28,0
+10286,fraud_Reilly and Sons,shopping_net,Houston,TX,29.698326,-95.296548,2012-09-25,1
+10287,fraud_Rutherford,kids_pets,Denver,CO,39.956618,-104.720588,2020-04-02,1
+10288,fraud_Cole,kids_pets,San Diego,CA,32.503944,-116.905147,2022-01-09,1
+10289,fraud_Emmerich,gas_transport,Charlotte,NC,35.22237,-80.988153,2016-07-14,1
+10290,fraud_Kunze,kids_pets,Houston,TX,29.735881,-95.08178,2019-05-06,1
+10291,fraud_Bailey,grocery_net,Philadelphia,PA,39.948171,-75.267949,2021-10-19,0
+10292,fraud_Emmerich,home,Dallas,TX,32.856741,-96.952913,2010-06-16,1
+10293,fraud_Yost Inc,shopping_net,Philadelphia,PA,39.698118,-75.387872,2010-05-14,1
+10294,fraud_Bailey Ltd,misc_pos,Columbus,OH,39.738028,-83.207658,2012-04-29,0
+10295,fraud_Halvorson and Sons,entertainment,Dallas,TX,32.559996,-96.712475,2013-12-05,1
+10296,fraud_Yost,gas_transport,Denver,CO,39.548328,-105.0829,2011-06-01,1
+10297,fraud_Schmidt Group,shopping_pos,Denver,CO,39.977273,-105.005923,2010-12-10,1
+10298,fraud_Bogan,home,Seattle,WA,47.706735,-122.528708,2020-08-14,1
+10299,fraud_Schmidt,shopping_net,Houston,TX,29.575773,-95.645279,2018-01-03,1
+10300,fraud_Halvorson and Sons,food_dining,San Antonio,TX,29.225461,-98.626446,2019-11-12,1
+10301,fraud_Halvorson,misc_net,San Diego,CA,32.521906,-117.407878,2021-02-27,1
+10302,fraud_Emmerich Group,food_dining,Charlotte,NC,34.999482,-80.866633,2011-10-09,1
+10303,fraud_Boyle,home,Chicago,IL,41.7019,-87.711238,2016-08-03,1
+10304,fraud_Cole Ltd,shopping_net,Phoenix,AZ,33.45045,-111.959763,2020-01-01,0
+10305,fraud_Reilly Inc,health_fitness,Philadelphia,PA,39.676187,-74.985554,2010-12-13,1
+10306,fraud_Boyle,misc_pos,Phoenix,AZ,33.52514,-112.324945,2011-04-15,1
+10307,fraud_Waters Ltd,gas_transport,Columbus,OH,40.185347,-82.746277,2010-09-13,1
+10308,fraud_Boyle,grocery_pos,San Diego,CA,32.452347,-117.294973,2012-10-31,1
+10309,fraud_Rutherford,entertainment,Philadelphia,PA,40.136321,-75.016244,2018-08-03,0
+10310,fraud_Schmidt,health_fitness,Columbus,OH,39.771913,-83.17319,2018-04-27,1
+10311,fraud_Pfeffer,gas_transport,Austin,TX,30.189483,-97.752386,2021-11-16,1
+10312,fraud_Waters and Sons,grocery_net,Houston,TX,29.831353,-95.448452,2010-08-01,1
+10313,fraud_Yost,home,Boston,MA,42.337621,-70.910417,2012-08-22,1
+10314,fraud_Stroman,kids_pets,Houston,TX,29.48241,-95.518338,2016-05-28,1
+10315,fraud_Cormier Group,gas_transport,San Diego,CA,32.84371,-116.923976,2019-12-26,1
+10316,fraud_Halvorson,grocery_net,Charlotte,NC,35.234106,-80.823832,2022-05-03,0
+10317,fraud_Bogan,gas_transport,Seattle,WA,47.370503,-122.363653,2013-11-27,1
+10318,fraud_Emmerich LLC,gas_transport,Denver,CO,39.75877,-105.144818,2015-04-24,1
+10319,fraud_Kunze PLC,health_fitness,Philadelphia,PA,39.814146,-75.23883,2022-05-17,1
+10320,fraud_Boyle,shopping_net,Los Angeles,CA,33.764243,-118.350453,2018-12-06,1
+10321,fraud_Emmerich,travel,San Antonio,TX,29.250969,-98.597102,2022-11-23,1
+10322,fraud_Hart,grocery_net,Columbus,OH,39.733057,-82.764484,2020-02-04,1
+10323,fraud_Emmerich PLC,kids_pets,Columbus,OH,40.017355,-82.891339,2014-01-30,1
+10324,fraud_Reilly,grocery_pos,Seattle,WA,47.779703,-122.333035,2012-10-14,0
+10325,fraud_Hart LLC,misc_net,Philadelphia,PA,39.704752,-75.142936,2015-01-22,1
+10326,fraud_Emmerich,grocery_net,Seattle,WA,47.658305,-122.184836,2015-08-15,1
+10327,fraud_Douglas Ltd,kids_pets,Phoenix,AZ,33.407396,-112.297452,2021-12-19,1
+10328,fraud_Emmerich,kids_pets,Austin,TX,30.137466,-97.825251,2013-06-17,1
+10329,fraud_Boyle,entertainment,Austin,TX,30.35475,-97.700633,2022-08-23,1
+10330,fraud_Kunze Ltd,kids_pets,Denver,CO,39.652858,-104.698391,2015-12-09,1
+10331,fraud_Homenick,grocery_pos,Columbus,OH,40.024665,-83.156464,2021-03-03,0
+10332,fraud_Bogan,health_fitness,Phoenix,AZ,33.209469,-112.282285,2015-06-30,1
+10333,fraud_Bogan,grocery_pos,Charlotte,NC,35.074675,-81.046691,2013-07-18,1
+10334,fraud_Reilly,entertainment,Houston,TX,29.57234,-95.498743,2023-08-10,1
+10335,fraud_Halvorson,misc_net,Philadelphia,PA,39.756624,-74.927141,2017-09-30,1
+10336,fraud_Hart,home,Dallas,TX,32.52484,-96.782293,2012-05-19,1
+10337,fraud_Rutherford,health_fitness,Phoenix,AZ,33.394638,-111.784573,2015-07-24,1
+10338,fraud_Cole Inc,kids_pets,Seattle,WA,47.373423,-122.393387,2019-05-19,1
+10339,fraud_Marks,kids_pets,Boston,MA,42.641782,-70.839596,2017-01-05,1
+10340,fraud_Marks,health_fitness,Dallas,TX,32.966943,-96.942258,2021-03-09,1
+10341,fraud_Yost Inc,health_fitness,Dallas,TX,32.579233,-96.695814,2015-05-27,1
+10342,fraud_Homenick Group,health_fitness,Phoenix,AZ,33.706026,-112.039942,2023-05-27,1
+10343,fraud_Bogan,grocery_net,Seattle,WA,47.649168,-122.464113,2019-09-01,1
+10344,fraud_Stroman,food_dining,Denver,CO,39.900896,-105.178074,2018-03-17,1
+10345,fraud_Waters PLC,entertainment,Houston,TX,29.654608,-95.414538,2022-05-30,1
+10346,fraud_Bailey Inc,home,Denver,CO,39.743766,-105.144854,2016-04-10,0
+10347,fraud_Boyle Group,entertainment,San Antonio,TX,29.193002,-98.427228,2017-08-09,0
+10348,fraud_Kutch,kids_pets,Houston,TX,29.633578,-95.321057,2021-06-02,1
+10349,fraud_Emmerich Group,misc_net,Chicago,IL,41.670718,-87.641116,2017-06-21,1
+10350,fraud_Emmerich,home,Austin,TX,30.286754,-98.012006,2013-02-19,1
+10351,fraud_Boyle Inc,misc_net,Austin,TX,30.169163,-97.962451,2016-09-17,0
+10352,fraud_Halvorson,home,Dallas,TX,32.514725,-96.503024,2020-12-26,0
+10353,fraud_Bogan,entertainment,New York,NY,40.606212,-73.820075,2017-06-06,1
+10354,fraud_Reilly,misc_net,Denver,CO,39.591984,-104.881398,2010-08-07,0
+10355,fraud_Yost Ltd,personal_care,Denver,CO,39.895337,-104.932917,2022-12-22,0
+10356,fraud_Rutherford,health_fitness,Austin,TX,30.250146,-97.795995,2013-10-28,0
+10357,fraud_Boyle,gas_transport,San Antonio,TX,29.333421,-98.235883,2015-06-08,1
+10358,fraud_Homenick,shopping_pos,Los Angeles,CA,34.250572,-117.964684,2010-06-05,1
+10359,fraud_Halvorson,misc_net,San Antonio,TX,29.198678,-98.35508,2014-07-29,1
+10360,fraud_Emmerich,health_fitness,Boston,MA,42.623104,-71.25016,2011-05-26,1
+10361,fraud_Emmerich and Sons,health_fitness,Columbus,OH,39.701098,-82.854128,2021-10-14,1
+10362,fraud_Halvorson,home,San Diego,CA,32.760384,-116.956003,2017-09-05,0
+10363,fraud_Kutch,misc_net,Seattle,WA,47.390063,-122.15494,2015-12-06,0
+10364,fraud_Yost LLC,home,Phoenix,AZ,33.269376,-112.275806,2016-09-11,1
+10365,fraud_Bogan,shopping_pos,Charlotte,NC,35.025659,-80.654355,2020-12-19,1
+10366,fraud_Yost Ltd,shopping_net,Phoenix,AZ,33.547518,-112.060161,2012-09-25,0
+10367,fraud_Douglas Inc,entertainment,Seattle,WA,47.521498,-122.10578,2013-04-14,1
+10368,fraud_Schmidt Ltd,entertainment,,CA,33.987667,-118.05374,2019-12-03,1
+10369,fraud_Yost PLC,home,Phoenix,AZ,33.411881,-112.147833,2016-02-04,1
+10370,fraud_Cole,shopping_pos,Austin,TX,30.244808,-97.862273,2015-06-10,1
+10371,fraud_Emmerich LLC,grocery_net,New York,NY,40.861366,-74.004368,2019-04-09,1
+10372,fraud_Yost LLC,home,New York,NY,40.552128,-73.766255,2013-07-17,1
+10373,fraud_Yost,personal_care,Houston,TX,29.690735,-95.343668,2016-06-11,1
+10374,fraud_Bogan,personal_care,Boston,MA,42.603983,-70.984357,2012-01-03,0
+10375,fraud_Rutherford,travel,Charlotte,NC,34.997239,-80.579201,2010-11-02,1
+10376,fraud_Reilly,grocery_pos,Chicago,IL,41.954725,-87.728857,2018-11-27,1
+10377,fraud_Marks,shopping_net,Seattle,WA,47.389763,-122.155685,2010-11-03,1
+10378,fraud_Bogan,entertainment,Los Angeles,CA,34.124244,-118.223623,2016-05-20,1
+10379,fraud_Douglas,gas_transport,Boston,MA,42.596436,-70.885742,2021-04-23,1
+10380,fraud_Stroman Group,gas_transport,Philadelphia,PA,39.743605,-75.278167,2020-04-17,1
+10381,fraud_Marks and Sons,shopping_net,Denver,CO,39.588293,-104.843932,2022-09-26,1
+10382,fraud_Marks,food_dining,Columbus,OH,39.681319,-82.956866,2019-08-05,0
+10383,fraud_Halvorson Ltd,gas_transport,Los Angeles,CA,34.209675,-118.017641,2013-02-25,1
+10384,fraud_Halvorson,shopping_net,New York,NY,40.618049,-73.813246,2018-08-09,1
+10385,fraud_Pfeffer,shopping_net,Philadelphia,PA,39.718979,-74.957329,2023-01-24,0
+10386,fraud_Kunze and Sons,shopping_pos,Charlotte,NC,35.003593,-80.904728,2011-05-24,1
+10387,fraud_Pfeffer Inc,home,Columbus,OH,40.139577,-83.20885,2016-12-22,1
+10388,fraud_Bogan LLC,gas_transport,Houston,TX,29.597951,-95.236448,2020-09-22,1
+10389,fraud_Pfeffer,entertainment,Austin,TX,30.399222,-97.658411,2019-04-30,0
+10390,fraud_Yost,misc_pos,Denver,CO,39.855569,-104.964665,2014-11-25,1
+10391,fraud_Boyle,home,Los Angeles,CA,33.903279,-118.336282,2020-01-08,0
+10392,fraud_Kutch PLC,grocery_pos,Los Angeles,CA,33.861159,-117.99863,2022-04-14,0
+10393,fraud_Cormier,gas_transport,Chicago,IL,41.928135,-87.689289,2017-05-11,0
+10394,fraud_Pfeffer LLC,kids_pets,Charlotte,NC,35.204303,-80.57473,2020-12-18,1
+10395,fraud_Emmerich,health_fitness,New York,NY,40.504811,-73.954262,2012-12-16,0
+10396,fraud_Reilly,home,New York,NY,40.716333,-73.939127,2020-05-15,1
+10397,fraud_Kunze Group,shopping_pos,Charlotte,NC,34.937966,-80.619826,2022-12-21,1
+10398,fraud_Schmidt,grocery_net,Charlotte,NC,35.486371,-80.80402,2022-02-20,1
+10399,fraud_Bailey,grocery_pos,San Diego,CA,32.83369,-116.9076,2016-06-09,1
