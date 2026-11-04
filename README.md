@@ -70,15 +70,4 @@ Raw CSV files → BRONZE → SILVER → GOLD → Power BI
 - No duplicate IDs
 
 
----
 
-## Tech Stack
-
-- SQL Server (T-SQL, stored procedures)
-- SSMS
-- Power BI
-- Git / GitHub
-
-
----
-- [LinkedIn](www.linkedin.com/in/youssef-adel-815388295)
