@@ -81,5 +81,4 @@ Raw CSV files → BRONZE → SILVER → GOLD → Power BI
 
 
 ---
-- **Youssef Adel **
 - [LinkedIn](www.linkedin.com/in/youssef-adel-815388295)
